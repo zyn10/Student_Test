@@ -1,0 +1,105 @@
+{
+	"questions": [
+	  {
+		"question": "What is a blockchain?",
+		"options": [
+		  "A type of database",
+		  "A type of cryptocurrency",
+		  "A type of programming language",
+		  "A type of hardware wallet"
+		],
+		"answer": "A type of database"
+	  },
+	  {
+		"question": "What is the name of the first and most well-known cryptocurrency?",
+		"options": [
+		  "Ethereum",
+		  "Bitcoin",
+		  "Litecoin",
+		  "Dogecoin"
+		],
+		"answer": "Bitcoin"
+	  },
+	  {
+		"question": "What programming language is used to write smart contracts on the Ethereum blockchain?",
+		"options": [
+		  "JavaScript",
+		  "Python",
+		  "Solidity",
+		  "Ruby"
+		],
+		"answer": "Solidity"
+	  },
+	  {
+		"question": "What is the name of the cryptocurrency that powers the Ethereum network?",
+		"options": [
+		  "Bitcoin",
+		  "Ether",
+		  "Ripple",
+		  "Stellar"
+		],
+		"answer": "Ether"
+	  },
+	  {
+		"question": "What is the name of the process by which new bitcoins are created and transactions are verified on the Bitcoin network?",
+		"options": [
+		  "Mining",
+		  "Trading",
+		  "Staking",
+		  "Farming"
+		],
+		"answer": "Mining"
+	  },
+	  {
+		"question": "What is the name of the consensus algorithm used by the Ethereum network?",
+		"options": [
+		  "Proof of Work (PoW)",
+		  "Proof of Stake (PoS)",
+		  "Delegated Proof of Stake (DPoS)",
+		  "Byzantine Fault Tolerance (BFT)"
+		],
+		"answer": "Proof of Work (PoW)"
+	  },
+	  {
+		"question": "What is the name of the largest cryptocurrency exchange by trading volume?",
+		"options": [
+		  "Binance",
+		  "Coinbase",
+		  "Kraken",
+		  "Gemini"
+		],
+		"answer": "Binance"
+	  },
+	  {
+		"question": "What is the name of the cryptocurrency that was created as a joke but became popular anyway?",
+		"options": [
+		  "Bitcoin",
+		  "Ether",
+		  "Litecoin",
+		  "Dogecoin"
+		],
+		"answer": "Dogecoin"
+	  },
+	  {
+		"question": "What is the name of the second-largest cryptocurrency by market capitalization?",
+		"options": [
+		  "Bitcoin",
+		  "Ether",
+		  "Litecoin",
+		  "XRP"
+		],
+		"answer": "Ether"
+	  },
+	  {
+		"question": "What is the name of the process by which users stake their cryptocurrency to secure the network and earn rewards?",
+		"options": [
+		  "Mining",
+		  "Trading",
+		  "Staking",
+		  "Farming"
+		],
+		"answer": "Staking"
+	  }
+	]
+  }
+  
