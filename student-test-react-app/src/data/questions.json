@@ -1,105 +1,103 @@
-{
-	"questions": [
-	  {
-		"question": "What is a blockchain?",
+[
+	{
+		"title": "What is a blockchain?",
 		"options": [
 		  "A type of database",
 		  "A type of cryptocurrency",
 		  "A type of programming language",
 		  "A type of hardware wallet"
 		],
-		"answer": "A type of database"
+		"correctOptionIndex": "2"
 	  },
 	  {
-		"question": "What is the name of the first and most well-known cryptocurrency?",
+		"title": "What is the name of the first and most well-known cryptocurrency?",
 		"options": [
 		  "Ethereum",
 		  "Bitcoin",
 		  "Litecoin",
 		  "Dogecoin"
 		],
-		"answer": "Bitcoin"
+		"correctOptionIndex": "2"
 	  },
 	  {
-		"question": "What programming language is used to write smart contracts on the Ethereum blockchain?",
+		"title": "What programming language is used to write smart contracts on the Ethereum blockchain?",
 		"options": [
 		  "JavaScript",
 		  "Python",
 		  "Solidity",
 		  "Ruby"
 		],
-		"answer": "Solidity"
+		"correctOptionIndex": "3"
 	  },
 	  {
-		"question": "What is the name of the cryptocurrency that powers the Ethereum network?",
+		"title": "What is the name of the cryptocurrency that powers the Ethereum network?",
 		"options": [
 		  "Bitcoin",
 		  "Ether",
 		  "Ripple",
 		  "Stellar"
 		],
-		"answer": "Ether"
+		"correctOptionIndex": "2"
 	  },
 	  {
-		"question": "What is the name of the process by which new bitcoins are created and transactions are verified on the Bitcoin network?",
+		"title": "What is the name of the process by which new bitcoins are created and transactions are verified on the Bitcoin network?",
 		"options": [
 		  "Mining",
 		  "Trading",
 		  "Staking",
 		  "Farming"
 		],
-		"answer": "Mining"
+		"correctOptionIndex": "1"
 	  },
 	  {
-		"question": "What is the name of the consensus algorithm used by the Ethereum network?",
+		"title": "What is the name of the consensus algorithm used by the Ethereum network?",
 		"options": [
 		  "Proof of Work (PoW)",
 		  "Proof of Stake (PoS)",
 		  "Delegated Proof of Stake (DPoS)",
 		  "Byzantine Fault Tolerance (BFT)"
 		],
-		"answer": "Proof of Work (PoW)"
+		"correctOptionIndex": "1"
 	  },
 	  {
-		"question": "What is the name of the largest cryptocurrency exchange by trading volume?",
+		"title": "What is the name of the largest cryptocurrency exchange by trading volume?",
 		"options": [
 		  "Binance",
 		  "Coinbase",
 		  "Kraken",
 		  "Gemini"
 		],
-		"answer": "Binance"
+		"correctOptionIndex": "1"
 	  },
 	  {
-		"question": "What is the name of the cryptocurrency that was created as a joke but became popular anyway?",
+		"title": "What is the name of the cryptocurrency that was created as a joke but became popular anyway?",
 		"options": [
 		  "Bitcoin",
 		  "Ether",
 		  "Litecoin",
 		  "Dogecoin"
 		],
-		"answer": "Dogecoin"
+		"correctOptionIndex": "4"
 	  },
 	  {
-		"question": "What is the name of the second-largest cryptocurrency by market capitalization?",
+		"title": "What is the name of the second-largest cryptocurrency by market capitalization?",
 		"options": [
 		  "Bitcoin",
 		  "Ether",
 		  "Litecoin",
 		  "XRP"
 		],
-		"answer": "Ether"
+		"correctOptionIndex": "2"
 	  },
 	  {
-		"question": "What is the name of the process by which users stake their cryptocurrency to secure the network and earn rewards?",
+		"title": "What is the name of the process by which users stake their cryptocurrency to secure the network and earn rewards?",
 		"options": [
 		  "Mining",
 		  "Trading",
 		  "Staking",
 		  "Farming"
 		],
-		"answer": "Staking"
+		"correctOptionIndex": "3"
 	  }
 	]
-  }
   

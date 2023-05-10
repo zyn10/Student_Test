@@ -1,6 +1,6 @@
-import { userState } from "react";
+import React, { useState } from "react";
 import Navbar from "./components/Navbar.js";
-import TestScreen from "./components/QuizScreen.js";
+import TestScreen from "./components/TestScreen.js";
 import JoinScreen from "./components/JoinScreen.js";
 
 function App() {
@@ -9,10 +9,11 @@ function App() {
     <>
       <Navbar />
       <div className="test-container">
-        {isTestStarted ? (
-          <QuizScreen retry={() => setIsQuizStarted(false)} />
+        {
+		isTestStarted ? (
+          <TestScreen retry={() => setIsQuizStarted(false)} />
         ) : (
-          <joinScreen start={() => setIsQuizStarted(true)} />
+          <JoinScreen start={() => setIsQuizStarted(true)} />
         )}
       </div>
     </>

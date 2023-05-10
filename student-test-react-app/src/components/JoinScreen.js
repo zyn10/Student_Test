@@ -1,4 +1,5 @@
-function JoinScreen() {
+import React, { useState } from "react";
+function JoinScreen({start}) {
   const [walletAddress, setWalletAddress] = useState("");
   const [isWalletAddressValid, setIsWalletAddressValid] = useState(false);
 
@@ -19,7 +20,7 @@ function JoinScreen() {
     }
   };
   return (
-    <div className="test-screen">
+    <div className="join-screen">
       <label>
         Crypto Wallet Address:
         <input
@@ -29,7 +30,7 @@ function JoinScreen() {
         />
       </label>
       <p>Hello! Welcome to D-Test System</p>
-      <button onClick={handleStartQuizClick} disabled={!isWalletAddressValid}>
+      <button onClick={handleStartQuizClick && start} disabled={!isWalletAddressValid}>
         Start
       </button>
     </div>
