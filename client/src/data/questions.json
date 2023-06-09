@@ -1,0 +1,57 @@
+[
+  {
+    "title": "What is a blockchain?",
+    "options": [
+      "A type of database",
+      "A type of cryptocurrency",
+      "A type of programming language",
+      "A type of hardware wallet"
+    ],
+    "correctOptionIndex": "2"
+  },
+  {
+    "title": "What is the name of the first and most well-known cryptocurrency?",
+    "options": ["Ethereum", "Bitcoin", "Litecoin", "Dogecoin"],
+    "correctOptionIndex": "2"
+  },
+  {
+    "title": "What programming language is used to write smart contracts on the Ethereum blockchain?",
+    "options": ["JavaScript", "Python", "Solidity", "Ruby"],
+    "correctOptionIndex": "3"
+  },
+  {
+    "title": "What is the name of the cryptocurrency that powers the Ethereum network?",
+    "options": ["Bitcoin", "Ether", "Ripple", "Stellar"],
+    "correctOptionIndex": "2"
+  },
+  {
+    "title": "What is the name of the process by which new bitcoins are created and transactions are verified on the Bitcoin network?",
+    "options": ["Mining", "Trading", "Staking", "Farming"],
+    "correctOptionIndex": "1"
+  },
+  {
+    "title": "What is the name of the consensus algorithm used by the Ethereum network?",
+    "options": ["PoW", "PoS", "DPoS", "BFT"],
+    "correctOptionIndex": "1"
+  },
+  {
+    "title": "What is the name of the largest cryptocurrency exchange by trading volume?",
+    "options": ["Binance", "Coinbase", "Kraken", "Gemini"],
+    "correctOptionIndex": "1"
+  },
+  {
+    "title": "What is the name of the cryptocurrency that was created as a joke but became popular anyway?",
+    "options": ["Bitcoin", "Ether", "Litecoin", "Dogecoin"],
+    "correctOptionIndex": "4"
+  },
+  {
+    "title": "What is the name of the second-largest cryptocurrency by market capitalization?",
+    "options": ["Bitcoin", "Ether", "Litecoin", "XRP"],
+    "correctOptionIndex": "2"
+  },
+  {
+    "title": "What is the name of the process by which users stake their cryptocurrency to secure the network and earn rewards?",
+    "options": ["Mining", "Trading", "Staking", "Farming"],
+    "correctOptionIndex": "3"
+  }
+]
